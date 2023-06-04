@@ -1,0 +1,16 @@
+section  {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#randomTxt{
+    /* width: 300px; */
+    background-color: tomato;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 4px;
+    text-align: justify;
+    word-spacing: 1px;
+}
